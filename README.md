@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 Here are a few projects I've been working on recently:
 
-- [Project 1](https://github.com/Shyamnarayananj/IRA-WORK) - Ira SportsWear's Website Design's that i have contributed.
-- [Project 2](https://github.com/Shyamnarayananj/Virtual_HR) - A fully Automated Candidate Selection Platform using Python.
+- [IRA-WEBSITE](https://github.com/Shyamnarayananj/IRA-WORK) - Ira SportsWear's Website Design's that i have contributed.
+- [VIRTUAL-HR](https://github.com/Shyamnarayananj/Virtual_HR) - A fully Automated Candidate Selection Platform using Python.
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate or have any questions!
 
